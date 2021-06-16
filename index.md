@@ -2,6 +2,7 @@
 ###### [](#header-6)Header 6
 
 [Link to another page](./submitted-scores.html).
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
