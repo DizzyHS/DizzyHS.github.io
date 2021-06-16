@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-
-### Preview Page Types
-[Listing Pages](samples/listings-page)
-
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
