@@ -1,1 +1,9 @@
+[◁◁◁◁◁◁◁◁](./index.html)
 
+|#|Player|Accuracy|
+|:-------------|:------|:------|
+|1|DizzyH|5485|
+|2|DizzyH|5485|
+|3|DizzyH|5485|
+|4|DizzyH|5485|
+|5|DizzyH|5485|
