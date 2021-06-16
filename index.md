@@ -1,9 +1,9 @@
 | Ranking       | Link          |
 |:-------------|:------------------|
-| Submitted Scores         | [Link](./submitted-scores.html). |
-| SS | good and plenty   |
-| Accuracy           | good `oreos`      |
-| Playcount           | good `zoute` drop |
+| Submitted Scores|[Here](./submitted-scores.html).|
+| SS|[Here](./submitted-scores.html).|
+| Accuracy|[Here](./submitted-scores.html).|
+| Playcount|[Here](./submitted-scores.html).|
 
 ```
 Atualizado em 14:59:22/16/06/2021.
