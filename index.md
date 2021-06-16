@@ -5,12 +5,10 @@ layout: default
 ### Preview Page Types
 [Listing Pages](samples/listings-page)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+dsfdgdfgdfgd
+safdgsxdfjgdhkgfkgdgedg
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+sfdggffdhjfgh
 # [](#header-1)Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
