@@ -1,4 +1,4 @@
-[Link to another page](./submitted-scores.html).
+[◁◁◁◁◁◁◁◁](./index.html).
 
 |#|Player|Submitted Scores|
 |:-------------|:------|
