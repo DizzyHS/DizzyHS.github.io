@@ -2,7 +2,8 @@
 
 |#       | Player| Submitted Scores|
 |:-------------|:------------------|:------|
-|1| good swedish fish | nice  |
-|2| good and plenty   | nice  |
-|3| good `oreos`      | hmm   |
-|4| good `zoute` drop | yumm  |
+|1|Checha| nice  |
+|2|spaik780| nice  |
+|3|[Dode]| hmm   |
+|4|himuy3| yumm  |
+|5|Windy| yumm  |
