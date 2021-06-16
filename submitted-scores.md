@@ -2,13 +2,14 @@
 ###### [](#header-6)Header 6
 
 [Link to another page](./submitted-scores.html).
-| head1        | head two          | three |
+|#|Player|Submitted Scores|
 |:-------------|:------------------|:------|
-|1| good swedish fish | nice  |
-|2| good and plenty   | nice  |
-|3| good `oreos`      | hmm   |
-|4| good `zoute` drop | yumm  |
-|5| good `zoute` drop | yumm  |
+|1|DizzyH|5485|
+|2|DizzyH|5485|
+|3|DizzyH|5485|
+|4|DizzyH|5485|
+|5|DizzyH|5485|
+
 
 ```
 Atualizado em 14:59:22/16/06/2021.
