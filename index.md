@@ -3,12 +3,12 @@
 
 [Link to another page](./submitted-scores.html).
 
-| head1        | head two          |
+| Ranking       | Link          |
 |:-------------|:------------------|
-| ok           | [Link to another page](./submitted-scores.html). |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| Submitted Scores         | [Link](./submitted-scores.html). |
+| SS | good and plenty   |
+| Accuracy           | good `oreos`      |
+| Playcount           | good `zoute` drop |
 
 ```
 Atualizado em 14:59:22/16/06/2021.
