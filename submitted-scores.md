@@ -1,4 +1,5 @@
 [Link to another page](./submitted-scores.html).
+
 |#|Player|Submitted Scores|
 |:-------------|:------------------|:------|
 |1|DizzyH|5485|
