@@ -2,8 +2,8 @@
 
 |#       | Player| Submitted Scores|
 |:-------------|:------------------|:------|
-|1|Checha| nice  |
-|2|spaik780| nice  |
-|3|[Dode]| hmm   |
-|4|himuy3| yumm  |
-|5|Windy| yumm  |
+|1|Windy|11074|
+|2|[Dode]|9541|
+|3|EliasMeira|8061|
+|4|Coreanmaluco|7671|
+|5|guimelou255|7063|
