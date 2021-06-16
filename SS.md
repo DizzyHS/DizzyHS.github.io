@@ -1,9 +1,10 @@
 [◁◁◁◁◁◁◁◁](./index.html)
 
-|#|Player|SS|
+|||Player|SS|
 |:-|:-|:-|
-|1|DizzyH|5485|
-|2|DizzyH|5485|
-|3|DizzyH|5485|
-|4|DizzyH|5485|
-|5|DizzyH|5485|
+|1|MouseEasy|301|1810|
+|1|MouseEasy|301|1810|
+|1|MouseEasy|301|1810|
+|1|MouseEasy|301|1810|
+|1|MouseEasy|301|1810|
+|1|MouseEasy|301|1810|
