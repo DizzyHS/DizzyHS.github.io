@@ -1,6 +1,6 @@
 
 
-| Player        | head two          | three |
+|#       | Player| Submitted Scores|
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
