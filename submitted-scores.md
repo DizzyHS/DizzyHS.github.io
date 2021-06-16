@@ -1,6 +1,3 @@
-
-###### [](#header-6)Header 6
-
 [Link to another page](./submitted-scores.html).
 |#|Player|Submitted Scores|
 |:-------------|:------------------|:------|
