@@ -1,5 +1,3 @@
-[Link to another page](./submitted-scores.html).
-
 | Ranking       | Link          |
 |:-------------|:------------------|
 | Submitted Scores         | [Link](./submitted-scores.html). |
