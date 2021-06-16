@@ -1,6 +1,6 @@
 [◁◁◁◁◁◁◁◁](./index.html)
 
-|#|Player|Submitted Scores|
+|#|Player|SS+S+A|
 |:-------------|:------|:------|
 |1|DizzyH|5485|
 |2|DizzyH|5485|
