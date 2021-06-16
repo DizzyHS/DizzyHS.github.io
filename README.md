@@ -2,7 +2,7 @@
 
 |#       | Player| Submitted Scores|
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|1| good swedish fish | nice  |
+|2| good and plenty   | nice  |
+|3| good `oreos`      | hmm   |
+|4| good `zoute` drop | yumm  |
