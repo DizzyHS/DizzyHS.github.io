@@ -1,6 +1,6 @@
 [◁◁◁◁◁◁◁◁](./index.html)
 
-|#|Player|Playcount|
+|#|Player|Acc|Playcount|PP|SS|S|A|
 |:-------------|:------|:------|
 |1|Coreanmaluco|98.22%|343911|13722|1276|4959|1576|
 |2|Yuuzinho|98.86%|228329|13430|250|1945|1601|
