@@ -3,7 +3,7 @@ show_downloads: false
 google_analytics:
 remote_theme: "dracula/gh-pages"
 show_header: true
-site_favicon: favicon.ico
+site_favicon: favicon (1).ico
 
 sass:
     style: compressed
