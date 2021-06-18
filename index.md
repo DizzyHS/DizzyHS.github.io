@@ -6,5 +6,5 @@
 |Playcount|[Here](./Playcount.html)|
 
 ```
-Atualizado em 14:59:22/16/06/2021.
+Atualizado em 2021-06-18 03:55:42
 ```
