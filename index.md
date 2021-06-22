@@ -1,6 +1,6 @@
 |Ranking|Link|
 |:-------------|:------------------|
-|Submitted Scores|[Here](./submitted-scores.html)|
+|Submitted Scores|[Here](./Submitted.html)|
 |SS|[Here](./SS.html)|
 |Accuracy|[Here](./Accuracy.html)|
 |Playcount|[Here](./Playcount.html)|
