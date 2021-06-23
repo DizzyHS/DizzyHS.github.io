@@ -1,4 +1,4 @@
-#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
+|#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
 |#1|Coreanmaluco|344559|1276|7833|98.2227|9288|38847|
 |#2|Yuuzinho|228329|250|3796|98.8593|7507|18592|
 |#3|Astris|220977|65|3451|98.8862|9385|3183|
