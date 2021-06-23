@@ -1,4 +1,4 @@
-#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
+|#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
 |#1|Astris|220977|65|3451|98.8862|9385|3183|
 |#2|Dafonz|58108|42|1862|98.6578|9289|1156|
 |#3|Coreanmaluco|344559|1276|7833|98.2227|9288|38847|
