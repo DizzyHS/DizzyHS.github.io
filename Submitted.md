@@ -1,4 +1,4 @@
-#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
+|#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
 |#1|Windy|63268|2671|11074|99.0226|4052|3657|
 |#2|Dode|142195|3681|9714|99.2318|5187|8713|
 |#3|EliasMeira|59261|426|8150|98.2698|1368|3|
