@@ -1,4 +1,4 @@
-#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
+|#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
 |#1|Checha|122046|4594|5261|100.0|5187|3639|
 |#2|Horzon|70720|1027|2102|99.8505|2276|65|
 |#3|himuy3|173984|2763|3521|99.8454|5578|2212|
