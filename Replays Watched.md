@@ -1,4 +1,4 @@
-#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
+|#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
 |#1|MouseEasy|168500|303|4001|98.4069|4593|230890|
 |#2|Mismagius|169811|523|6702|98.398|9288|190604|
 |#3|Fenrir|97293|332|3460|99.4671|5086|148004|
