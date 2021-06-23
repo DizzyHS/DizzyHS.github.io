@@ -1,4 +1,4 @@
-#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
+|#|Player|Playcount|SS|Submitted|Accuracy|Max Combo|Replays Watched|Unnamed: 7
 |#1|Checha|122046|4594|5261|100.0|5187|3639|
 |#2|spaik780|59201|4230|7023|99.6699|2223|289|
 |#3|Dode|142195|3681|9714|99.2318|5187|8713|
