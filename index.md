@@ -7,5 +7,5 @@
 |Max Combo|[Here](./Max Combo.html)|
 
 ```
-Atualizado em 2021-06-24 18:20:44
+Atualizado em 2021-06-24 18:34:17
 ```
