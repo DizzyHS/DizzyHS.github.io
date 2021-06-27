@@ -6,8 +6,6 @@
 |Max Combo|[Here](./Max Combo.html)|
 |Ranked Score|[Here](./Ranked Score.html)|
 
-![](https://a.ppy.sh/9896172?1623700652.png =32x32)
-
 ```
 Atualizado em 2021-06-25 19:19:00
 ```
