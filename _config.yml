@@ -5,3 +5,5 @@ remote_theme: "dracula/gh-pages"
 show_header: true
 sass:
     style: compressed
+gems:
+- jekyll-seo-tag
