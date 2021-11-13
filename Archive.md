@@ -8,5 +8,5 @@
 |Skin Archive|[Here](./Archive.html)|
 
 ```
-Atualizado em 2021-09-21 11:04:51
+Atualizado em 2021-11-13 12:41:45
 ```
