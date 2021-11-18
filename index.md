@@ -5,8 +5,7 @@
 |Replays Watched|[Here](./Replays Watched.html)|
 |Max Combo|[Here](./Max Combo.html)|
 |Ranked Score|[Here](./Ranked Score.html)|
-|Skin Archive|[Here](./Archive.html)|
 
 ```
-Atualizado em 2021-11-13 12:43:11
+Atualizado em 2021-11-17 21:31:10
 ```
