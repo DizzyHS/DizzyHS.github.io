@@ -7,5 +7,5 @@
 |Ranked Score|[Here](./Ranked Score.html)|
 
 ```
-Atualizado em 2021-11-17 21:31:10
+Atualizado em 2021-11-27 01:04:53
 ```
